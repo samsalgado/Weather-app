@@ -1,0 +1,36 @@
+{
+  "name": "weather-app-react-native",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@icons/material": "^0.4.1",
+    "@react-native-community/picker": "^1.8.1",
+    "add": "^2.0.6",
+    "expo": "~44.0.0",
+    "expo-location": "^14.0.2",
+    "expo-modules-core": "^0.6.5",
+    "expo-status-bar": "~1.2.0",
+    "material-icons": "^1.10.8",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "yarn": "^1.22.18"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
